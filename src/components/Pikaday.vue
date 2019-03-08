@@ -2,7 +2,7 @@
 
     <input
       type="text"
-      autocomplete="off"
+      autocomplete="new-password"
       @input="updateValue"
       ref="node">
 
